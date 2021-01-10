@@ -1,0 +1,45 @@
+body {
+  background: #ffffff;
+  width: 80vw;
+}
+h2{
+  color:rgb(37, 192, 240);
+}
+h3 {
+  color:rgb(39, 180, 126);
+}
+h2, h3{
+  width: 60vw;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-position: contain;
+}
+.usagi {
+  width: 60vw;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-position: contain;
+    padding-bottom: 3%;
+}
+.Person{
+  padding-bottom: 0;
+}
+
+.Item{
+  padding-bottom: 0;
+}
+
+.kome {
+  text-align: center;
+  font-size: 8px;
+  padding-bottom: 0;
+}
+
+p {
+  text-align: center;
+  font-size: 12px;
+  padding: 0;
+
+}
